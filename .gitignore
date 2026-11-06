@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C++ Build artifacts
+*.exe
+*.out
+*.app
+*.o
+*.obj
+*.pdb
+*.ilk
+cmake-build-debug/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# IDE and Editor configurations
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
